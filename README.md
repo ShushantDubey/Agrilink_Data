@@ -1,4 +1,4 @@
-# Agrilinks Data internship Assigment
+# Agrilinks Data internship
 
 Required to build an express JS API web-service which captures user contributed reports and returns an aggregate report in response.
 
@@ -8,14 +8,12 @@ To run the application on your local machine you need to have node.js and mongod
 
 ```
 npm install
-
 ```
 
 Application should now be up and running at port 3000. To access the application simply open your preffered browser and type the following in the url bar:
 
 ```
 http://localhost:3000
-
 ```
 
 To stop the server press Ctrl + C on the server terminal.
